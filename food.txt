@@ -1,2 +1,4 @@
 pizza
 biryaani
+paneer
+chicken

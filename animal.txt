@@ -1,2 +1,4 @@
 horse
 tiger
+rabbit
+lion
