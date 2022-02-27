@@ -14,6 +14,7 @@ public class Bank {
   Iterator <Employee> itr= list.iterator();
  while(itr.hasNext()) {
 	 System.out.println(itr.next());
+	 //comments//
  }
 		
 	}
