@@ -51,7 +51,8 @@ public class Collections {
 		{   
 		    
 		Product product = arraylist.get(i);   
-	
+	     
+			
 		System.out.println(   product.pid+"    "+  "    "  +product.pname+"               "+"  "+product.pavailability+"                "+product.pprice+ "           "+String.format("%.01f", product.prating));   
 		}   
 		}   
