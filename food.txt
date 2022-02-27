@@ -3,3 +3,4 @@ biryaani
 paneer
 chicken
 rasgulla
+samosa
