@@ -2,5 +2,3 @@ pizza
 dosa
 idli
 paneer
-chicken
-biryaani
